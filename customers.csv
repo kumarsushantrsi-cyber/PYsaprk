@@ -1,0 +1,51 @@
+customer_id,customer_name,city,signup_date
+100,Customer_0,,2023-02-17
+101,Customer_1,New York,2023-07-14
+102,Customer_2,New York,2023-02-19
+103,Customer_3,,2023-07-03
+104,Customer_4,Mumbai,2023-06-26
+105,Customer_5,London,
+106,Customer_6,London,
+107,Customer_7,London,
+108,Customer_8,,
+109,Customer_9,New York,2023-10-02
+110,Customer_10,,2023-03-05
+111,Customer_11,,2023-07-13
+112,Customer_12,Tokyo,2023-02-10
+113,Customer_13,New York,2023-10-10
+114,Customer_14,Tokyo,2023-05-31
+115,Customer_15,Sydney,2023-11-18
+116,Customer_16,New York,2023-11-13
+117,Customer_17,New York,2023-07-05
+118,Customer_18,New York,2023-10-23
+119,Customer_19,London,2023-04-09
+120,Customer_20,London,2023-12-27
+121,Customer_21,Tokyo,2023-02-05
+122,Customer_22,Tokyo,2023-01-24
+123,Customer_23,New York,2023-12-05
+124,Customer_24,Tokyo,2023-04-27
+125,Customer_25,London,2023-05-29
+126,Customer_26,,2023-02-10
+127,Customer_27,,2023-04-30
+128,Customer_28,,2023-02-21
+129,Customer_29,Tokyo,2023-07-14
+130,Customer_30,Sydney,2023-05-23
+131,Customer_31,London,2023-08-21
+132,Customer_32,Sydney,2023-11-22
+133,Customer_33,Tokyo,2023-07-06
+134,Customer_34,Mumbai,2023-03-25
+135,Customer_35,Berlin,2023-07-09
+136,Customer_36,Berlin,2023-07-01
+137,Customer_37,New York,2023-04-18
+138,Customer_38,Berlin,2023-12-10
+139,Customer_39,Berlin,2023-05-17
+140,Customer_40,London,2023-12-26
+141,Customer_41,,2023-12-16
+142,Customer_42,Sydney,2023-11-28
+143,Customer_43,Mumbai,2023-02-06
+144,Customer_44,Mumbai,2023-11-08
+145,Customer_45,London,2023-11-22
+146,Customer_46,London,2023-03-29
+147,Customer_47,Berlin,2023-10-01
+148,Customer_48,Mumbai,2023-05-06
+149,Customer_49,New York,2023-03-25
